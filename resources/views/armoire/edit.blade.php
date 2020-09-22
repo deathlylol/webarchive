@@ -17,7 +17,7 @@
                     <input type="text" class="form-control" id="armoire_title" name="title" placeholder="" value="{{$armoire->title}}">
                 </div>
 
-                <button class="btn btn-dark mt-3">Create</button>
+                <button class="btn btn-dark mt-3">Edit</button>
             </div>
             {!! Form::close() !!}
         </div>

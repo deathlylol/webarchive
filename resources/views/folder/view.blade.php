@@ -6,7 +6,7 @@
             <nav>
                 <ul class="breadcrumb">
                     <li class="breadcrumb-item"><a href="{{route('app/index')}}">Main</a></li>
-                    <li class="breadcrumb-item"><a href="{{route('armoire.view',$folder->cell->id)}}">{{$folder->cell->title}}</a></li>
+                    <li class="breadcrumb-item"><a href="{{route('cell.view',$folder->cell->id)}}">{{$folder->cell->title}}</a></li>
                     <li class="breadcrumb-item active"><b>{{$folder->title}}</b></li>
                 </ul>
             </nav>
@@ -22,7 +22,6 @@
                 </thead>
                 <tbody>
                 @forelse($folder->file as $file)
-
                     <tr>
                         <th scope="row">{{$file->id}}</a></th>
                         <td style="text-align: center"><a target="_blank" href="{{Storage::url('uploads/'.$file->file_name)}}">{{$file->title}}</a></td>
@@ -35,7 +34,7 @@
                     </tr>
                 @empty
                     <div class="alert alert-warning mt-5" role="alert">
-                        <h4>Folders is empty</h4>
+                        <h4>Files is empty</h4>
                     </div>
                 @endforelse
                 </tbody>

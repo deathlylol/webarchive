@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e3390d4-ac4a-4508-b24f-03935320f28c" name="Default Changelist" comment="" />
+    <list default="true" id="3e3390d4-ac4a-4508-b24f-03935320f28c" name="Default Changelist" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/armoire/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/armoire/edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/cell/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/cell/edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/file/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/file/edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/folder/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/folder/edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/folder/search.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/folder/search.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/folder/view.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/folder/view.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +18,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -106,6 +117,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1hbTQLpCdF2Vc73uJempjj0ILDZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -155,11 +167,24 @@
       <workItem from="1600757693823" duration="5353000" />
       <workItem from="1600775077752" duration="14796000" />
       <workItem from="1600797529406" duration="8000" />
+      <workItem from="1600797570958" duration="1791000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1600797867007</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600797867007</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="797" y="264" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1600353351159">
@@ -170,10 +195,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600767835764" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1600327363140">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1600797659023">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600327363140" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600797659023" />
+    <state x="835" y="418" width="545" height="204" key="Github.ShareDialog" timestamp="1600797636237">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="835" y="418" width="545" height="204" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600797636237" />
     <state x="784" y="243" key="NewPhpClassDialog" timestamp="1600424421939">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -186,10 +215,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600683553556" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1600797902573">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600797902573" />
     <state x="570" y="135" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600687189269">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="570" y="135" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600687189269" />
+    <state x="761" y="426" width="840" height="187" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600797759549">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="761" y="426" width="840" height="187" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600797759549" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1600796281365">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
